@@ -168,7 +168,3 @@ git push -u origin main
 - `git commit` only saves **locally**
 - `git push` uploads to **GitHub**
 - You must link your GitHub repo using `git remote add origin` before pushing
-
-
-
-Next to []
